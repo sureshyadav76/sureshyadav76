@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm suresh kumar Yadav</h1>
-<h3 align="center">I'm A DevOps Guys</h3>
+<h3 align="center">I'm A DevOps Engineer</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/cypik](https://github.com/cypik)
