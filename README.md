@@ -13,7 +13,6 @@
 - 📫 How to reach me **sureshyadva76@gmail.com**
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
-[![Linux](https://img.shields.io/badge/Linux-Your_URL_Here-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)](Your_URL_Here)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
