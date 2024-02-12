@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@thesureshyadav76](https://medium.com/@thesureshyadav76)
 
-- 💬 Ask me about **Ansible, terraform, Kubernetes,docker,Linux,GCP,AWS**
+- 💬 Ask me about **GCP, terraform, Kubernetes,docker,Linux,Ansible,AWS**
 
-- 📫 How to reach me **sureshyadva76@gmail.com**
+- 📫 How to reach me **thesureshyadva76@gmail.com**
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
