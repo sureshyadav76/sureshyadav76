@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm suresh kumar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Suresh Yadav</h1>
 <h3 align="center">I'm A DevOps Engineer</h3>
 
 
@@ -8,9 +8,10 @@
 
 - 📝 I regularly write articles on [https://medium.com/@thesureshyadav76](https://medium.com/@thesureshyadav76)
 
-- 💬 Ask me about **GCP, terraform, Kubernetes,docker,Linux,Ansible,AWS**
+- 💬 Ask me about **GCP, Terraform, Kubernetes, Docker, Nginx, PHP, Apache2, Linux, Ansible, AWS**
 
 - 📫 How to reach me **thesureshyadva76@gmail.com**
+  
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
