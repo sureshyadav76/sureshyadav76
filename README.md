@@ -49,6 +49,9 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=sureshyadav76&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Suresh's Top Contributed Repositories" />
 </div>
 
+<p align="center">Check out my GitHub profile: <a href="https://github.com/sureshyadav76">sureshyadav76</a></p>
+
+
 ---
 ## 📬 Connect with Me
 
