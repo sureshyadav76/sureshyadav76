@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Reverse_Proxy-Web_Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Container_Runtime-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-CircleCI-2bbc8a?style=for-the-badge&logo=circleci&logoColor=white" />
   <img src="https://img.shields.io/badge/Orchestration_Tool-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
