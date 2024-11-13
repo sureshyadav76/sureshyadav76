@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Hub-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux-2bbc8a?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Proxy-Web_Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Proxy-Web_Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Container_Runtime-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-CircleCI-2bbc8a?style=for-the-badge&logo=circleci&logoColor=white" />
@@ -30,8 +30,28 @@
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
+## 🧰 Other Tools & Languages
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Database-MSSQL-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=336791" />
+  <img src="https://img.shields.io/badge/Hub-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=for-the-badge&logo=nginx&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Reverse_Proxy/Web_Server-Apache-informational?style=for-the-badge&logo=apache&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Container_Runtime-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/CI/CD-CircleCI-informational?style=for-the-badge&logo=circleci&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Automation-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Monitoring-Grafana-informational?style=for-the-badge&logo=grafana&logoColor=white&color=2bbc8a" />
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=2bbc8a" />
+</div>
 
+---
 
 ## 📈 GitHub Stats
 
@@ -49,7 +69,15 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=sureshyadav76&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Suresh's Top Contributed Repositories" />
 </div>
 
-<p align="center">Check out my GitHub profile: <a href="https://github.com/sureshyadav76">sureshyadav76</a></p>
+<p align="center">
+  <a href="https://github.com/sureshyadav76" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20out%20my%20GitHub%20profile-Suresh%20Yadav-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
+  </a>
+</p>
+
+
+
+
 
 
 ---
