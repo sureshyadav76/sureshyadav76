@@ -12,12 +12,24 @@
 
 - 📫 How to reach me **thesureshyadva76@gmail.com**
   
-🛠 DevOps & Cloud Expertise
-<div align="center"> <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791" /> <img src="https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Reverse_Proxy/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Reverse_Proxy/Web_Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" /> <img src="https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a" /> </div>
-🤝 Let's Connect
-You can connect with me on GitHub or other platforms:
+## 🛠 DevOps & Cloud Expertise
 
-<div align="center"> <a href="https://github.com/your-profile" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Contact-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" /> </a> <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Contact-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a" /> </a> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hub-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux-2bbc8a?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Proxy-Web_Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Proxy-Web_Server-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container_Runtime-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-CircleCI-2bbc8a?style=for-the-badge&logo=circleci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orchestration_Tool-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</div>
+
 
 
 ## 📈 GitHub Stats
