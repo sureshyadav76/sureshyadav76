@@ -56,26 +56,33 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats and Streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=sureshyadav76&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="Suresh's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshyadav76&theme=tokyonight&hide_border=true" width="49%" alt="Suresh's GitHub Streak" />
 </div>
 
+<hr>
+
 <div align="center">
+  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshyadav76&theme=tokyonight" width="100%" alt="Suresh's Profile Summary" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshyadav76&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Suresh's Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=sureshyadav76&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" alt="Suresh's Top Contributed Repositories" />
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
+  <!-- Top Languages and Top Contributed Repositories -->
+  <div style="flex: 1; max-width: 45%; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshyadav76&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Suresh's Top Languages" />
+  </div>
+  <div style="flex: 1; max-width: 45%; margin: 10px;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=sureshyadav76&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" alt="Suresh's Top Contributed Repositories" />
+  </div>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://github.com/sureshyadav76" target="_blank">
     <img src="https://img.shields.io/badge/Check%20out%20my%20GitHub%20profile-Suresh%20Yadav-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a" />
   </a>
 </p>
-
-
 
 
 
