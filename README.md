@@ -13,6 +13,8 @@
 - 📫 How to reach me **thesureshyadva76@gmail.com**
   
 ## 🛠 DevOps & Cloud Expertise
+<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -29,6 +31,16 @@
   <img src="https://img.shields.io/badge/Orchestration_Tool-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
+
+
+
+<p align="center">
+  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+</p>
+ <!--My Hobbies-->
+
+
+
 
 ## 🧰 Other Tools & Languages
 
