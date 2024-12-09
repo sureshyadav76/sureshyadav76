@@ -67,10 +67,17 @@
 ### 🌐 Where to Find Me
 
 <p align="center">
-  <a href="https://github.com/cypik" target="_blank"><img src="https://img.shields.io/badge/GitHub-cypik-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@thesureshyadav76" target="_blank"><img src="https://img.shields.io/badge/Medium-@thesureshyadav76-000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sureshyadav76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/cypiksuresh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-cypiksuresh-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@thesureshyadav76" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-@thesureshyadav76-000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sureshyadav76/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
