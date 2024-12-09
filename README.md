@@ -7,10 +7,10 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-- 🚀 **DevOps Mentor**: Helping professionals grow in DevOps for the past 2 years.  
-- 🌐 **Tech Stack**: Expertise in **GCP**, **Terraform**, **Kubernetes**, **Docker**, **AWS** , **Ansible** and **Linux**.  
+- 🚀 **DevOps Mentor**: Helping professionals grow in DevOps for the past 7 years.  
+- 🌐 **Tech Stack**: Expertise in **GCP**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, **Ansible**, and **Linux**.  
 - 📘 **Content Creator**: Sharing knowledge on [Medium](https://medium.com/@thesureshyadav76).  
 - 💡 **Collaborator**: Available for brainstorming and building solutions.  
 
