@@ -28,7 +28,7 @@
   <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/AWS Certified SysOps Administrator - Associate certificate (1).pdf.gif" width="600" alt="AWS SysOps Certification" />
 </p>
 
-> 🔎 **Validate at:** [https://aws.amazon.com/verification](https://aws.amazon.com/verification)  
+> 🔎 **Validate at:** [https://aws.amazon.com/verification](https://www.credly.com/go/yneqES94Fl4kiBMJsruMLw)  
 > 📅 **Issued:** April 28, 2024 &nbsp;&nbsp;&nbsp;&nbsp; ⏳ **Expires:** April 28, 2027  
 > 🆔 **Validation Number:** `10f1234da4414457e8dc5253c1b9b...`
 
