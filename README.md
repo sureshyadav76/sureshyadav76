@@ -3,9 +3,21 @@
 <div class="col-md-9">
   <h4>DevOps || GCP || Aws || Jenkins || Networking || Terraform || Github || Mysql || Ansible || Linux || Docker.</h4>
 </div>
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="DevOps GIF" />
-</p>
+
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://raw.githubusercontent.com/sureshyadav76/sureshyadav76/main/WhatsApp%20Image%202025-06-12%20at%2011.17.37%20AM.jpeg" alt="Suresh Yadav" width="220" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
+      <h3>🚀 <strong>Suresh Yadav</strong></h3>
+      <em>DevOps Engineer</em>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="DevOps GIF" width="220" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
