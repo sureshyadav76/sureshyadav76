@@ -21,8 +21,7 @@
 ---
 ## 🏅 Certifications
 
-- ⭐ **AWS Certified SysOps Administrator – Associate**  
-- ⭐ **Google Cloud Professional Cloud DevOps Engineer**  
+- ⭐ **AWS Certified SysOps Administrator – Associate**   
 - ⭐ **AWS Certified DevOps Engineer**
 
 <p align="center">
