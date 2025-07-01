@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://raw.githubusercontent.com/sureshyadav76/sureshyadav76/main/WhatsApp%20Image%202025-06-12%20at%2011.17.37%20AM.jpeg" alt="Suresh Yadav" width="220" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
+      <img src="https://raw.githubusercontent.com/sureshyadav76/sureshyadav76/main/suresh.jpeg" alt="Suresh Yadav" width="220" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
       <h3>🚀 <strong>Suresh Yadav</strong></h3>
       <em>DevOps Engineer</em>
     </td>
@@ -37,7 +37,7 @@
 - ⭐ **AWS Certified DevOps Engineer**
 
 <p align="center">
-  <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/AWS Certified SysOps Administrator - Associate certificate (1).pdf.gif" width="600" alt="AWS SysOps Certification" />
+  <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/AWS Certified SysOps.gif" width="600" alt="AWS SysOps Certification" />
 </p>
 
 > 🔎 **Validate at:** [https://aws.amazon.com/verification](https://www.credly.com/go/yneqES94Fl4kiBMJsruMLw)  
