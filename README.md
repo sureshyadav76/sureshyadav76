@@ -26,7 +26,7 @@
 - ⭐ **AWS Certified DevOps Engineer**
 
 <p align="center">
-  <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/certifications/aws_sysops.png" width="600" alt="AWS SysOps Certification" />
+  <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/AWS Certified SysOps Administrator - Associate certificate (1).pdf.gif" width="600" alt="AWS SysOps Certification" />
 </p>
 
 > 🔎 **Validate at:** [https://aws.amazon.com/verification](https://aws.amazon.com/verification)  
