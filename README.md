@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suresh Yadav</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast | Mentor | Automation Expert</h3>
 <div class="col-md-9">
-  <h4>DevOps || GCP || Aws || Jenkins || Networking || Terraform || Github || Mysql || Ansible || Linux || Docker.</h4>
+  <h4>DevOps Engineer ⚙️ | Linux 🐧 | Terraform 🏗️ | Docker 🐳 | Kubernetes 🚢 | Jenkins 🔧 | GitHub 🐙 | CI/CD 🚀 | GitHub Actions 🤖 | GCP ☁️ | AWS ☁️ | Networking 🌐 | MySQL 🗄️ | Ansible 📦.</h4>
 </div>
 
 
