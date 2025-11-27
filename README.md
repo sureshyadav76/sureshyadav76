@@ -1,34 +1,30 @@
-<h1 align="center">Hi 👋, I'm Suresh Yadav</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Mentor | Automation Expert</h3>
-<div class="col-md-9">
-  <h4>DevOps Engineer ⚙️ | Linux 🐧 | Terraform 🏗️ | Docker 🐳 | Kubernetes 🚢 | Jenkins 🔧 | GitHub 🐙 | CI/CD 🚀 | GitHub Actions 🤖 | GCP ☁️ | AWS ☁️ | Networking 🌐 | MySQL 🗄️ | Ansible 📦.</h4>
-</div>
+
+<!-- Banner -->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#00E8FF;">Suresh Yadav</span></h1>
+<h3 align="center">🚀 Senior DevOps Engineer | Cloud Specialist | Mentor | Automation Expert</h3>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=800&center=true&vCenter=true&multiline=true&width=650&height=140&color=00E8FF&lines=Senior+DevOps+Engineer+%F0%9F%9A%80;Cloud+Specialist+%7C+Mentor+%7C+Automation+Expert;Linux+%F0%9F%90%A7+%7C+Terraform+%F0%9F%8F%97%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+Kubernetes+%F0%9F%9A%A2;Jenkins+%F0%9F%94%A7+%7C+GitHub+%F0%9F%90%99+%7C+CI%2FCD+%F0%9F%9A%80+%7C+GitHub+Actions+%F0%9F%A4%96;GCP+%E2%98%81%EF%B8%8F+%7C+AWS+%E2%98%81%EF%B8%8F+%7C+Networking+%F0%9F%8C%90+%7C+MySQL+%F0%9F%97%84%EF%B8%8F+%7C+Ansible+%F0%9F%93%A6" />
+</p>
 
 
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://raw.githubusercontent.com/sureshyadav76/sureshyadav76/main/suresh.jpeg" alt="Suresh Yadav" width="220" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);" />
-      <h3>🚀 <strong>Suresh Yadav</strong></h3>
-      <em>DevOps Engineer</em>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="DevOps GIF" width="220" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
 
----
 
-## 🌟 About Me
+# 🚀 About Me
 
-- 🚀 **DevOps Mentor**: Helping professionals grow in DevOps for the past 2 years.  
-- 🌐 **Tech Stack**: Expertise in **GCP**, **AWS**, **Terraform**, **Kubernetes**, **Docker**, **Ansible**, and **Linux**.  
-- 📘 **Content Creator**: Sharing knowledge on [Medium](https://medium.com/@thesureshyadav76).  
-- 💡 **Collaborator**: Available for brainstorming and building solutions.  
+- 🧑‍🏫 **DevOps Engineer** with 3+ years of guiding professionals towards success  
+- ⚙️ **Infrastructure Automation enthusiast**  
+- 🛠️ Specializing in **Cloud, CI/CD, Containers, IaC, Monitoring & SRE**  
+- ✍️ Writing tech blogs on Medium  
+- 🤝 Love to collaborate on DevOps & Cloud solutions  
+- ❤️ Passionate about solving real-world infra challenges
 
-📫 **Connect with me**: [thesureshyadva76@gmail.com](mailto:thesureshyadva76@gmail.com)
+📩 Email: **thesureshyadva76@gmail.com**  
+🔗 Medium: https://medium.com/@thesureshyadav76  
+🔗 LinkedIn: https://www.linkedin.com/in/sureshyadav76/
 
 ---
 ## 🏅 Certifications
@@ -36,63 +32,123 @@
 - ⭐ **AWS Certified SysOps Administrator – Associate**   
 - ⭐ **AWS Certified DevOps Engineer**
 
-<p align="center">
-  <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/AWS Certified SysOps Administrator - Associate certificate (1).pdf.gif" width="600" alt="AWS SysOps Certification" />
-</p>
-
-> 🔎 **Validate at:** [https://aws.amazon.com/verification](https://www.credly.com/go/yneqES94Fl4kiBMJsruMLw)  
-> 📅 **Issued:** April 28, 2024 &nbsp;&nbsp;&nbsp;&nbsp; ⏳ **Expires:** April 28, 2027  
-> 🆔 **Validation Number:** `10f1234da4414457e8dc5253c1b9b...`
-
----
-
-### 🛠️ My Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-</div>
+# 🏆 DevOps Services I Provide
 
 
-<p align="center">
-  <img src="https://github.com/sureshyadav76/sureshyadav76/blob/main/SureshSkills.gif?raw=true" />
-</p>
-
----
-## 🧰 Other Tools & Languages
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Linux-2bbc8a?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Proxy-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-</div>
+### ☁ **Cloud Infrastructure (GCP → AWS)**
+| **GCP Cloud Infrastructure (Expert)** | AWS Cloud Architecture |
+| **GCE / VPC / Subnets / Cloud NAT** | EC2 / VPC / NAT / Subnets |
+| **GCP Global Load Balancer** | ALB / NLB |
+| **IAM / KMS / Secret Manager (GCP)** | IAM / KMS / Secrets Manager |
+| **Cloud Functions / Cloud Run** | Lambda |
+| **Instance Groups / Autoscaler** | Auto Scaling |
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshyadav76&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshyadav76&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshyadav76&theme=tokyonight" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sureshyadav76&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</div>
+### 🏗 **Infrastructure as Code (IaC)**
+| **Terraform for GCP Modules (VPC, GKE, CloudSQL)** |
+| Terraform (Multi-cloud) | Terragrunt | CloudFormation |
 
 ---
 
-### 🌐 Where to Find Me
+### 🔧 **CI/CD Pipeline Engineering**
+| **Cloud Build (GCP)** | Cloud Deploy (GCP) |
+| GitHub Actions | Jenkins | GitLab CI |
+| CodePipeline (AWS) |
+
+---
+
+### 🐳 **Containers & Orchestration**
+| **GKE (Standard + Autopilot)** | EKS |
+| Docker | Helm Charts | Karpenter |
+| Ingress | Service Mesh |
+
+---
+
+### 📦 **Configuration Management**
+| Ansible | Packer | Bash Automation |
+
+---
+
+### 📈 **Monitoring & Logging**
+| **GCP Operations Suite (Stackdriver Logs / Metrics / Traces)** |
+| Prometheus | Grafana | Loki |
+| ELK / OpenSearch | CloudWatch |
+
+---
+
+### 🌐 **Networking & Security**
+| **GCP VPC Design / Firewall Rules / Hierarchical Policies** |
+| AWS VPC Design | Security Groups |
+| Zero-Downtime Deployments | SSL/TLS |
+| **Cloud DNS** | Route53 |
+
+---
+
+### 💾 **Databases**
+| **Cloud SQL (MySQL / PostgreSQL)** | RDS |
+| **BigQuery** |
+| MySQL | PostgreSQL | DynamoDB |
+
+---
+
+
+## 🧰 Tech Stack 
+
+### ☁️ Cloud Platforms
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=aws" width="40"/> | **AWS** | Amazon cloud platform to deploy servers, storage, databases, CI/CD etc. |
+| <img src="https://skillicons.dev/icons?i=gcp" width="40"/> | **Google Cloud (GCP)** | Google’s cloud platform for compute, networking, Kubernetes, automation. |
+
+### 🏗️ Infrastructure as Code (IaC)
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=terraform" width="40"/> | **Terraform** | Tool to automate cloud resource creation using code. |
+| <img src="https://skillicons.dev/icons?i=ansible" width="40"/> | **Ansible** | Automation tool for configuration management & provisioning. |
+
+### 🐳 Containers & Orchestration
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=docker" width="40"/> | **Docker** | Platform to build and run applications using containers. |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/> | **Kubernetes** | Container orchestration platform for scaling & managing clusters. |
+
+### 🔧 DevOps & CI/CD Tools
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=githubactions" width="40"/> | **GitHub Actions** | CI/CD pipelines for building and deploying code. |
+| <img src="https://skillicons.dev/icons?i=jenkins" width="40"/> | **Jenkins** | Automation server for CI/CD pipelines. |
+| <img src="https://skillicons.dev/icons?i=git" width="40"/> | **Git** | Version control to track and manage code changes. |
+| <img src="https://skillicons.dev/icons?i=github" width="40"/> | **GitHub** | Source code hosting & collaboration platform. |
+
+### 🛡️ Web Servers / Reverse Proxy
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=nginx" width="40"/> | **Nginx** | High-performance web server & reverse proxy. |
+| <img src="https://skillicons.dev/icons?i=apache" width="40"/> | **Apache** | Popular web server for hosting websites. |
+
+### 🗄️ Databases
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | **MySQL** | Relational SQL database used for apps & backend. |
+| <img src="https://skillicons.dev/icons?i=postgres" width="40"/> | **PostgreSQL** | Advanced open-source SQL database. |
+
+### 🐧 Operating Systems & Scripting
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=linux" width="40"/> | **Linux** | Open-source OS for servers, security & DevOps. |
+| <img src="https://skillicons.dev/icons?i=bash" width="40"/> | **Bash Scripting** | Shell scripting to automate server tasks. |
+
+### 📊 Monitoring & Logging
+| Logo | Name | Meaning |
+|------|------|---------|
+| <img src="https://skillicons.dev/icons?i=grafana" width="40"/> | **Grafana** | Dashboard tool for visualization & monitoring. |
+| 🔥 | **Prometheus** | Time-series monitoring & alerting system. |
+
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
   <a href="https://github.com/cypiksuresh" target="_blank">
@@ -107,13 +163,5 @@
 </p>
 
 
----
 
-### 🌟 Fun Fact
-
-💬 "My passion for mentoring has empowered countless professionals to achieve their dreams in DevOps and cloud computing!"  
-🌟 **Let’s build something amazing together!**
-
----
-
-
+<p align="center">⭐ If you like my profile, consider giving it a star!</p>
