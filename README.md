@@ -125,7 +125,7 @@
 | Logo | Name | Meaning |
 |------|------|---------|
 | <img src="https://skillicons.dev/icons?i=nginx" width="40"/> | **Nginx** | High-performance web server & reverse proxy. |
-| <img src="https://skillicons.dev/icons?i=apache" width="40"/> | **Apache** | Popular web server for hosting websites. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/> | **Apache** | Popular web server for hosting websites. |
 
 ### 🗄️ Databases
 | Logo | Name | Meaning |
